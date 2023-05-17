@@ -53,7 +53,7 @@ object FormMenu: TFormMenu
   end
   object Panel12: TPanel
     Left = 16
-    Top = 87
+    Top = 89
     Width = 312
     Height = 273
     Color = clGradientInactiveCaption

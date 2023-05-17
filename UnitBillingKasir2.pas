@@ -285,8 +285,10 @@ end;
 
 procedure TFormKasirBilling.FormCreate(Sender: TObject);
 begin
+
 datetimepicker1.Date := now();
 pagecontrol1.ActivePage := Tabsheet1;
+
 end;
 
 end.

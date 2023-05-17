@@ -22,7 +22,7 @@ object FormKasirBilling: TFormKasirBilling
     Top = 4
     Width = 1137
     Height = 613
-    ActivePage = TabSheet2
+    ActivePage = TabSheet1
     TabOrder = 0
     object TabSheet1: TTabSheet
       Caption = 'Pembayaran'
@@ -1827,7 +1827,7 @@ object FormKasirBilling: TFormKasirBilling
           object DBEdit13: TDBEdit
             Left = 116
             Top = 131
-            Width = 446
+            Width = 378
             Height = 28
             Color = clCream
             DataField = 'Pembayaran'
