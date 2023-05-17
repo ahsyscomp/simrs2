@@ -1,0 +1,34 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormStyle = Popup
+  WindowState = wsMaximized
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object MainMenu1: TMainMenu
+    Left = 8
+    Top = 8
+    object MenuItem1: TMenuItem
+      Text = 'Data Pokok'
+    end
+    object MenuItem2: TMenuItem
+      Text = 'Transaksi'
+      object MenuItem5: TMenuItem
+        Locked = True
+        Text = 'Billing Kasir'
+        OnClick = MenuItem5Click
+      end
+    end
+    object MenuItem3: TMenuItem
+      Text = 'Bantuan'
+    end
+    object MenuItem4: TMenuItem
+      Text = 'Akunting'
+    end
+  end
+end

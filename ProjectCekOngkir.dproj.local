@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/05/16 07:35:11.250,=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/16 07:44:46.082,C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\UnitMenuRajaOngkir.dfm=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/05/16 07:44:46.082,C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\UnitMenuRajaOngkir.pas=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/16 07:45:15.897,C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\ProjectCekOngkir.dproj=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2023/05/16 07:46:04.086,=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/05/16 08:04:21.309,C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unitprovinsicekongkir.pas=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/05/16 08:04:21.309,C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unitprovinsicekongkir.dfm=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

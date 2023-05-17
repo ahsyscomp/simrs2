@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/05/13 18:10:31.842,=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/13 18:28:18.626,C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Menu.fmx=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2023/05/13 18:28:18.626,C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Menu.pas=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/13 18:29:37.717,C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\ProjectSIMRS.dproj=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2023/05/13 18:30:04.990,=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/13 18:33:24.741,C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\UnitBillingKasir.pas=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/13 18:36:47.877,=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/05/13 18:40:00.460,C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\UnitBillingKasir.pas=</Transaction>
+    <Transaction>2023/05/13 18:51:42.766,C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unitkasirbill.pas=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/05/13 18:51:42.766,C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unitkasirbill.fmx=C:\Users\ahsyscomp\Documents\Embarcadero\Studio\Projects\Unit3.fmx</Transaction>
+  </Transactions>
+</BorlandProject>
